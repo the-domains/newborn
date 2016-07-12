@@ -1,0 +1,14 @@
+layout_spectrum: 0.03192893206141889
+typography_spectrum: 0.7300166513305157
+color:
+  brandStrength: 0.1068641496822238
+  lightness: 0.8379531151149422
+  saturation: 0.29782604542560875
+  rhythmicContrast: 0.9439739403314888
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+name: NEWBORN
